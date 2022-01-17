@@ -1,0 +1,1 @@
+web:    java -cp target/classes:target/dependency/* MercTrainingDemoOne-0.0.1-SNAPSHOT.jar
