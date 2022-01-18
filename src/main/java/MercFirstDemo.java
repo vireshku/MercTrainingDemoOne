@@ -16,7 +16,7 @@ public class MercFirstDemo extends HttpServlet {
 
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-		resp.getWriter().print("MercFirstDemo Modified IntelliJ Eclipse for Java!\n");
+		resp.getWriter().print("MercFirstDemo pipeline ci cd Modified IntelliJ Eclipse for Java!\n");
 	}
 
 	public static void main(String[] args) throws Exception {
